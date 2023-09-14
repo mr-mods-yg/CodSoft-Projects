@@ -13,7 +13,3 @@ It is a fun guess-the-number game with rounds and score functionality added. It'
 
 https://github.com/mr-mods-yg/CodSoft-Projects/assets/62419230/09b72fd4-47c1-4269-9650-593429476200
 
-## Task 3 : - Quiz Application With Timer
-It is a basic trivia quiz with functionality to add questions and answers. 4 options quiz
-[souce code]().
-

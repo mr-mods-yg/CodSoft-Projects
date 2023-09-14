@@ -1,0 +1,13 @@
+2
+Which of these fruits is not a tropical fruit?
+Mango
+Apple
+Papaya
+Pineapple
+B
+What is the name of the traditional Japanese art of paper folding?
+Origami
+Kabuki
+Kintsugi
+Kokeshi
+A
